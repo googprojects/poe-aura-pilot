@@ -23,3 +23,11 @@ this is a very simple bot, it:
 remember change keys from code.
 have questions?
 discord: js91021
+
+
+what to add?
+i want to add:
+1. pickup items
+2. enter diffrent locations
+3. no mouse movement
+4. accept quests
