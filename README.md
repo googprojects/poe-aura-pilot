@@ -21,3 +21,5 @@ this is a very simple bot, it:
 
 
 remember change keys from code.
+have questions?
+discord: js91021
